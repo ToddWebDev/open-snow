@@ -3,8 +3,12 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 40s linear;
-  height: 40vmin;
+  /* animation: App-logo-spin infinite 40s linear; */
+}
+
+.navbar-brand {
+  text-transform: uppercase;
+  font-weight: 700;
 }
 
 .App-header {
@@ -24,10 +28,6 @@
 
 body {
   font-family: 'Source Sans Pro', sans-serif;
-}
-
-h1 {
-  text-transform: uppercase;
 }
 
 @keyframes App-logo-spin {
