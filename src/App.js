@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './snowflake-shape.svg';
 import './App.css';
+import './bootstrap.min.css';
 
 class App extends Component {
   render() {
